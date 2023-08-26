@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "venom-bot": "^5.0.19"
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "tinyurl": "^1.1.7",
+    "venom-bot": "^5.0.19",
+    "yahoo-finance2": "^2.4.4"
   }
 }
