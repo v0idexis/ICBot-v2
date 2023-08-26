@@ -5,5 +5,8 @@
     "tinyurl": "^1.1.7",
     "venom-bot": "^5.0.19",
     "yahoo-finance2": "^2.4.4"
+  },
+  "engines": {
+    "node": "16.15.0"
   }
 }
